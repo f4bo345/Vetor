@@ -1,19 +1,19 @@
 import java.util.Scanner;
-public class exer14{
+public class v14{
 	public static void main(String[] args) {
 	    
 	    int a[]= new int[10],c[]= new int[10],b[]= new int[10], i=0, j=9,k=0;
-	    Scanner leia = new Scanner(System.in);
+	    Scanner ler = new Scanner(System.in);
 	    
 	    while(i<10){
 	        System.out.println("Digite o "+(i+1)+"° valor do vetor A");
-	        a[i]=leia.nextInt();
+	        a[i]=ler.nextInt();
 	        i++;
 	    }
 	    i=0;
 	    while(i<10){
 	        System.out.println("Digite o "+(i+1)+"° valor do vetor B");
-	        b[i]=leia.nextInt();
+	        b[i]=ler.nextInt();
 	        i++;
 	    }
 	   i=0;
