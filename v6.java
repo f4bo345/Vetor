@@ -1,7 +1,7 @@
 import java.util.Scanner;
-public class Exercicio6{
+public class v6{
     public static void main(String[] args){
-    Scanner in = new Scanner(System.in);
+    Scanner ler = new Scanner(System.in);
 
     int a[] = new int [11];
 
