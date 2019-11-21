@@ -1,6 +1,6 @@
 import java.util.Scanner;
-public class exer01{
-	public static void exer01(String[] args) {
+public class v1{
+	public static void main(String[] args) {
 	    
 	    int a[]= new int[10],b[]= new int[10], i=0, j=9,k=0;
 	    Scanner leia = new Scanner(System.in);
