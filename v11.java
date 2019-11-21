@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class exer11{
+public class v11{
 	public static void main(String[] args) {
 	    
 	    int a[]= new int[10], i=0,j=0,k=0,n=0;
