@@ -1,13 +1,13 @@
 import java.util.Scanner;
-public class exer7{
+public class v7{
 	public static void main(String[] args) {
 	    
 	    int a[]= new int[15],b[]= new int[15], i=0, j=0,k=1,total;
-	    Scanner leia = new Scanner(System.in);
+	    Scanner ler = new Scanner(System.in);
 	    
 	    while(i<15){
 	        System.out.println("Digite o "+(i+1)+"° valor");
-	        a[i]=leia.nextInt();
+	        a[i]=ler.nextInt();
 	        i++;
 	    }
 	    i=0;
